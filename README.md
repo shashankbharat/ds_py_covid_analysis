@@ -1,7 +1,7 @@
 # ds_py_covid_analysis
 **_<ins>Overview</ins>_:** Data Science project in Python to analyze COVID-19 data
 
-![COVID-19](images/1_COVID_TITLE.JPG "COVID-19")
+![COVID-19](images/1_COVID_TITLE.jpg "COVID-19")
 
 ### Description
 
@@ -47,8 +47,8 @@ Focused only on the U.S. there are three datasets sourced from [USA Facts](https
 
 ![COVID-19](images/2_USA_Map.JPG "COVID-19")
 
-![COVID-19](images/3_Cases_Bar.JPG "COVID-19")
+![COVID-19](images/3_Cases_Bar.jpg "COVID-19")
 
-![COVID-19](images/4_Deaths_Bar.JPG "COVID-19")
+![COVID-19](images/4_Deaths_Bar.jpg "COVID-19")
 
-![COVID-19](images/5_Geo_Map.JPG "COVID-19")
+![COVID-19](images/5_Geo_Map.jpg "COVID-19")
